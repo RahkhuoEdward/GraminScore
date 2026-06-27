@@ -157,4 +157,5 @@ Team:<br>
 Built with love during the  DUHacks 5.0 hackathon by<br> 
 Team  - The Alchemist<br> 
 Robertson Athokpam,
+Rahkhuo Edward,
 Thiyam Chingu Robaartt.
